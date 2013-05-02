@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/media/48BA5388BA537184/Users/DELL/Documents/Workspace/Lib/randomNumberGenerator.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
